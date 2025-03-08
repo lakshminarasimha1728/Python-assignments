@@ -10,8 +10,9 @@ print("Hello, World!")
 This is a multi-line comment 
 It can span multiple lines
 It is used to ignore code
-print("Welcome!")
 '''
+print("Welcome!")
+
 #Define variables for different Data Types int, Boolean, char, float, double and print on the Console
 
 a = -18
